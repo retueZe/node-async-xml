@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "async-xml",
+  "version": "0.0.0",
+  "description": "Async XML reader/writer.",
+  "keywords": [
+    "xml",
+    "async",
+    "reader",
+    "writer",
+    "rx",
+    "rxjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/retueZe/node-async-xml"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
